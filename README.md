@@ -27,9 +27,12 @@ go install -v github.com/eikehacker1/xsghost@latest
 ### Use with filter
 
 ```
-./xsghost.exe testphp.vulnweb.com  -only-poc 
+./xsghost.exe  -only-poc testphp.vulnweb.com 
 ```
-
+### Custom Payload
+```pws
+ ./xsghost.exe  -only-poc -payload "<script>alert(1)</script>" testphp.vulnweb.com
+```
 ### -h func
 
 ```
