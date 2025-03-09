@@ -1,7 +1,7 @@
 # xsghost
 One XSS scan go based
 
-# Download, Build and Install.
+# Download, Build And Install.
 ### WINDOWS Download
 ```
 curl -L -o xsghost.exe "https://github.com/eikehacker1/xsghost/raw/refs/heads/main/xsghost.exe"
@@ -10,13 +10,13 @@ curl -L -o xsghost.exe "https://github.com/eikehacker1/xsghost/raw/refs/heads/ma
 ```
 curl -L -o  xsghost "https://github.com/eikehacker1/xsghost/raw/refs/heads/main/xsghost"
 ```
-### Build on Any System using GO. 
+### Build on any system using GO. 
 
 ```
 go install -v github.com/eikehacker1/xsghost@latest
 ```
 
-# How to Uuse 
+# How to Use 
 
 ###  Use without filter
 
