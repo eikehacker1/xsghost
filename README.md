@@ -56,4 +56,5 @@ go install -v github.com/eikehacker1/xsghost@latest
   -proxy string
         Send traffic to a proxy (default "0")
 ```
+### Output
 ![image](https://github.com/user-attachments/assets/b02c863e-3e02-4677-a53e-23bfb8c16b64)
