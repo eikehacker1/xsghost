@@ -2,7 +2,7 @@
 A tool based on a collection of go scripts
 Follow me on 
 
-[LinkedIn] (https://www.linkedin.com/in/eike-de-campos-oliveira-2643b11ba/)
+[LinkedIn](https://www.linkedin.com/in/eike-de-campos-oliveira-2643b11ba/)
 
 # Download, Build And Install.
 ### WINDOWS Download
