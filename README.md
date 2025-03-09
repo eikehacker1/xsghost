@@ -13,7 +13,7 @@ curl -L -o  xsghost "https://github.com/eikehacker1/xsghost/raw/refs/heads/main/
 ### Build on any system using GO. 
 
 ```
-go install -v github.com/eikehacker1/xsghost@latest
+go install -v github.com/eikehacker1/xsghost@aff9c01555dbbb5d0e92f473bf6fd66ac208fdb1
 ```
 
 # How to Use 
