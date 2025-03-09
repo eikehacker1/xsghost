@@ -1,5 +1,6 @@
 # xsghost
-One XSS scan go based
+A tool based on a collection of go scripts
+Follow me on LinkedIn *https://www.linkedin.com/in/eike-de-campos-oliveira-2643b11ba/
 
 # Download, Build And Install.
 ### WINDOWS Download
@@ -9,11 +10,6 @@ curl -L -o xsghost.exe "https://github.com/eikehacker1/xsghost/raw/refs/heads/ma
 ### Linux Download
 ```
 curl -L -o  xsghost "https://github.com/eikehacker1/xsghost/raw/refs/heads/main/xsghost"
-```
-### Build on any system using GO. 
-
-```
-go install -v github.com/eikehacker1/xsghost@aff9c01555dbbb5d0e92f473bf6fd66ac208fdb1
 ```
 
 # How to Use 
