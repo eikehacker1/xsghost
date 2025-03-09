@@ -33,7 +33,7 @@ go install -v github.com/eikehacker1/xsghost@latest
 ```pws
  ./xsghost.exe  -only-poc -payload "<script>alert(1)</script>" testphp.vulnweb.com
 ```
-### -h func
+### -h func and other features
 
 ```
  -a    Append the value instead of replacing it
