@@ -1,7 +1,7 @@
 # xsghost
 A tool based on a collection of go scripts
 
-Follow me on Linkedim 
+Follow me on Linkedin
 
 [LinkedIn](https://www.linkedin.com/in/eike-de-campos-oliveira-2643b11ba/)
 
